@@ -1,0 +1,25 @@
+Period_of_Day,Hour_of_Day,Fraud_Count
+Afternoon (12-17),12,17
+Afternoon (12-17),13,17
+Afternoon (12-17),14,23
+Afternoon (12-17),15,26
+Afternoon (12-17),16,22
+Afternoon (12-17),17,28
+Evening (18-23),18,28
+Evening (18-23),19,19
+Evening (18-23),20,18
+Evening (18-23),21,16
+Evening (18-23),22,9
+Evening (18-23),23,17
+Morning (06-11),6,9
+Morning (06-11),7,23
+Morning (06-11),8,9
+Morning (06-11),9,16
+Morning (06-11),10,8
+Morning (06-11),11,53
+Night (00-05),0,6
+Night (00-05),1,10
+Night (00-05),2,48
+Night (00-05),3,17
+Night (00-05),4,23
+Night (00-05),5,11
